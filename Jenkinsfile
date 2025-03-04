@@ -4,7 +4,7 @@ pipeline {
     environment {
         DIRECTORY_PATH = 'https://github.com/moksh07b/SIT223_Task_5.1P'
         TESTING_ENVIRONMENT = 'Staging'
-        PRODUCTION_ENVIRONMENT = 'YourName'
+        PRODUCTION_ENVIRONMENT = 'Moksh Bansal'
     }
     
     stages {    // Multiple Stages
